@@ -1,0 +1,6 @@
+INDEX VERSION 1.122+D:\OneStoreWorkSpace\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1821538508.index
+1809372342.index
+3633742341.index
+2492529286.index
+1348042808.index
